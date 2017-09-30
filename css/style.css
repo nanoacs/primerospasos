@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+.container{
+	margin-top: 1rem;
+}
+
 .head{
 	margin-bottom: 2rem;
 }
