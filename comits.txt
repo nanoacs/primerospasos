@@ -1,0 +1,59 @@
+commit b0bb186e95396820ba2a38cc4ad4f440b2896cb2
+Author: nanoacs <nanoapscosas@gmail.com>
+Date:   Thu Sep 28 20:20:06 2017 -0500
+
+    Agregando formularios
+
+commit 9eea7b348b36a6706b86589b68192f5a5f6c1ff5
+Author: nanoacs <nanoapscosas@gmail.com>
+Date:   Thu Sep 28 20:09:29 2017 -0500
+
+    Cambio en color de boton a original
+
+commit 3cb62343d88dde4e21e46ed303e5bc9abeaa4de6
+Author: nanoacs <nanoapscosas@gmail.com>
+Date:   Wed Sep 27 22:12:22 2017 -0500
+
+    boton
+
+commit 6650ec0b6fa8eee02ecb62c33a333804a02f1569
+Author: nanoacs <nanoapscosas@gmail.com>
+Date:   Wed Sep 27 21:53:47 2017 -0500
+
+    Mas columnas
+
+commit d8f2eba2fd83f2aac56db1bfe06286d6a960fb89
+Author: nanoacs <nanoapscosas@gmail.com>
+Date:   Wed Sep 27 21:41:41 2017 -0500
+
+    Columnas
+
+commit 1682dc34c015a114dbbdab9f40e5c18a166bb338
+Author: nanoacs <nanoapscosas@gmail.com>
+Date:   Wed Sep 27 21:32:58 2017 -0500
+
+    Cambio en color de pagina web
+
+commit 9b92b76daf7483cdd79adcbbe9b00b828b1bc0e1
+Author: nanoacs <nanoapscosas@gmail.com>
+Date:   Wed Sep 27 21:29:19 2017 -0500
+
+    Cambios con css
+
+commit af047ee3dd01761a077d9eb6216a25bc8568390d
+Author: nanoacs <nanoapscosas@gmail.com>
+Date:   Wed Sep 27 21:24:10 2017 -0500
+
+    Añadiendo texto
+
+commit 7beee4ac8b4817064432b3fa271170af1b15c15d
+Author: nanoacs <nanoapscosas@gmail.com>
+Date:   Wed Sep 27 21:19:59 2017 -0500
+
+    Añadir container a index
+
+commit e20470075d51bc533e3e7b1fff5cec6ea43a429d
+Author: nanoacs <nanoapscosas@gmail.com>
+Date:   Wed Sep 27 21:15:54 2017 -0500
+
+    Iniciando proyecto con bootstrap
