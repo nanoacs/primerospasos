@@ -6,14 +6,20 @@
 
 body{
 	min-width: 100vh;
+	background:#F2F2F2;
 }
 
 .container{
 	margin-top: 1rem;
+	background:#fff;
+	height: 100vh;
+	margin:0 auto;
 }
 
 .head{
 	margin-bottom: 2rem;
+	color:#434A5D;
+	/*color: #FFD678;*/
 }
 
 h1{
