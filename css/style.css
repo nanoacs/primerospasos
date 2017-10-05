@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700');
+
 *{
 	margin:0;
 	padding: 0;
@@ -5,9 +7,15 @@
 }
 
 body{
+<<<<<<< HEAD
 	min-width: 100vh;
 	background:#F2F2F2;
 	color:#434A5D;
+=======
+	background:#F2F2F2;
+	color:#434A5D;
+	background:url(../imagenes/concrete-texture.png);
+>>>>>>> pruebas
 }
 
 .container{
@@ -18,14 +26,24 @@ body{
 }
 
 .head{
+<<<<<<< HEAD
 	margin-bottom: 2rem;
 	color:#434A5D;
 	/*color: #FFD678;*/
+=======
+	margin-bottom: 1rem;
+>>>>>>> pruebas
 }
 
 h1{
 	text-align: center;
+<<<<<<< HEAD
 	padding: .5rem 0;
+=======
+	color:#434A5D;
+	font-family: 'Dancing Script', cursive;
+	font-size: 3rem;
+>>>>>>> pruebas
 }
 
 img{
