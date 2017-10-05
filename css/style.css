@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700');
+
 *{
 	margin:0;
 	padding: 0;
@@ -15,12 +17,14 @@ body{
 }
 
 .head{
-	margin-bottom: 2rem;
+	margin-bottom: 1rem;
 }
 
 h1{
 	text-align: center;
 	color:#434A5D;
+	font-family: 'Dancing Script', cursive;
+	font-size: 3rem;
 }
 
 img{
